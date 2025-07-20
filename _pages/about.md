@@ -8,6 +8,54 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .rucred {
+    display: inline-block;
+    background-color: rgb(174, 11, 42);
+    color: white;
+    font-size: 0.8em;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  .badge {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+</style>
+
+<style>
+  .logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem; 
+  }
+  .logo-row img {
+    height: 60px;
+    width: auto;
+    /* 
+       border-radius: 6px;
+       box-shadow: 0 0 6px rgba(0,0,0,.15); */
+  }
+</style>
+
+<style>
+  .site-footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: rgb(128, 128, 128);
+    margin: 2rem 0 1rem; 
+  }
+  .site-footer a {
+    color: inherit;
+    text-decoration: underline;
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -31,7 +79,7 @@ My research currently aims to **track buried objects under debris flow** through
 # 🔥 News
 - **2025.09**: &nbsp;🎉 I start my PhD study at HKU!
 
-# 📝 Selectes publications 
+# 📝 Selected publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,3 +102,8 @@ My research currently aims to **track buried objects under debris flow** through
   – *The University of Hong Kong (China, Hong Kong SAR)*  
 - **2020.09–2024.06**: BEng in Civil Engineering  
   – *Central South University (China, Hunan)*  
+
+<div class="logo-row">
+  <img src="../images/CSU.png"      alt="">
+  <img src="../images/HKU.png"  alt="">
+</div>
