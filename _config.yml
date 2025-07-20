@@ -25,9 +25,10 @@ author:
   avatar           : "images/CN.png"
   bio              : #"Lorem ipsum College"
   location         : "Hong Kong SAR, China"
-  employer         :
+  employer         : " The University of Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  orcid            : "https://orcid.org/0009-0009-1165-349X"
   email            : "u3630597@connect.hku.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
