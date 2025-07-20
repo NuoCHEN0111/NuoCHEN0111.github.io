@@ -9,10 +9,10 @@ main:
   - title: "Selected publications"
     url: "/#-Selected publications"
 
-  - title: "Honors and Awards"
+  - #title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - #title: "Educations"
+  - title: "Educations"
     url: "/#-educations"
 
   - #title: "Invited Talks"
