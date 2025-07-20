@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nuo Chen's Personal Website"
-description              :
+description              : #
 repository               : "NuoCHEN0111/NuoCHEN0111.github.io"
 google_scholar_stats_use_cdn : true
 
