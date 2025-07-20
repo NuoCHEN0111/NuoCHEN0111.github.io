@@ -35,7 +35,7 @@ redirect_from:
     margin-top: 2rem; 
   }
   .logo-row img {
-    height: 60px;
+    height: 160px;
     width: auto;
     /* 
        border-radius: 6px;
@@ -107,3 +107,12 @@ My research currently aims to **track buried objects under debris flow** through
   <img src="../images/CSU.png"      alt="">
   <img src="../images/HKU.png"  alt="">
 </div>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Nuo Chen. All rights reserved.</p>
+  <p>
+    Template adapted from
+    <a href="https://github.com/RayeRen/acad-homepage.github.io"
+       target="_blank" rel="noopener">Yi Ren</a>.
+  </p>
+</footer>
