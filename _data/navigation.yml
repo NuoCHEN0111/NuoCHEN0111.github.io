@@ -2,12 +2,15 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+     
+  - title: "Research interest"
+    url: "/#-research-interests"
 
   - title: "News"
     url: "/#-news"
 
   - title: "Selected publications"
-    url: "/#-Selected publications"
+    url: "/#-selected-publications"
 
   - #title: "Honors and Awards"
     url: "/#-honors-and-awards"
