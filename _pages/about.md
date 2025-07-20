@@ -71,7 +71,7 @@ Hi I'm Nuo Chen. I'm currently a PhD student at the Deparmnet of civil Engineeri
 
 My research currently aims to **track buried objects under debris flow** through differnet physical scales and provide **relaible disaster reponse** to the urgent needs of society.
 
-# 🔍 Research interest
+# 🔍 Research interests
 - Landslides mechanism
 - Machine learning in geotechnical engineering
 - Landslides early warning and response
@@ -95,7 +95,7 @@ My research currently aims to **track buried objects under debris flow** through
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
 
-# 📖 Education
+# 📖 Educations
 - **2025.09–Present**: PhD in Geotechnical Engineering  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
 - **2024.09–2025.09**: MSc in Civil Engineering (Geotechnical Engineering Stream)  
