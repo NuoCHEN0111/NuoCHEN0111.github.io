@@ -67,7 +67,7 @@ redirect_from:
 
 About me
 ======
-Hi I'm Nuo Chen. I'm currently a PhD student at the Deparmnet of civil Engineering, the University of Hong Kong (HKU) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html). Before start my PhD study, I also had a Msc degree from HKU. I obtained my B.Eng degree from Central South University (CSU) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
+Hi I'm Nuo Chen. I'm currently a PhD student at the Deparmnet of civil Engineering, the University of Hong Kong (HKU) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html). Before starting my PhD study, I also had a Msc degree from HKU and obtained my B.Eng degree from Central South University (CSU) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
 
 My research currently aims to **track buried objects under debris flow** through differnet physical scales and provide **relaible disaster reponse** to the urgent needs of society.
 
@@ -100,7 +100,7 @@ My research currently aims to **track buried objects under debris flow** through
   – *The University of Hong Kong (China, Hong Kong SAR)*  
 - **2024.09–2025.09**: MSc in Civil Engineering (Geotechnical Engineering Stream)  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
-- **2020.09–2024.06**: BEng in Civil Engineering  
+- **2020.09–2024.06**: BEng in Civil Engineering (1st class) 
   – *Central South University (China, Hunan)*  
 
 <div class="logo-row">
