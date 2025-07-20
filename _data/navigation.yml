@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#-about-me"
      
-  - title: "Research interest"
-    url: "/#-research-interest"
+  - title: "Research interests"
+    url: "/#-research-interests"
 
   - title: "News"
     url: "/#-news"
@@ -15,8 +15,8 @@ main:
   - #title: "Honors and Awards"
     #url: "/#-honors-and-awards"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "Educations"
+    url: "/#-educations"
 
   - #title: "Invited Talks"
     #url: "/#-invited-talks"
