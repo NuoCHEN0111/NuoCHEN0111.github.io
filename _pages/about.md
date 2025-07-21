@@ -83,7 +83,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 # 🔥 News
 - **2025.09**: &nbsp;🎉 I start my PhD study at HKU!
 
-# 📝 Selected publications 
+# 📝 Selected Publications 
 
 <div class="author-footnotes"> <span>* Corresponding author</span> <span>† Equal contribution authors at this work </span> </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -100,7 +100,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
 
-# 🌏 Collabration
+# 🌏 Collabration/Network
 - [**Prof. Clarence E. Choi**](https://www.civil.hku.hk/pp-choice.html), **Assistant Professor**, *The University of Hong Kong (China, Hong Kong SAR)*,(**2025.06–Present**) 
 - [**Prof.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, *University of Dundee (UK, Dundee)*,(**2024.12–Present**) 
 - [**Prof.Jiren Xie**](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm), **Associate Professor**, *Central South University (China, Hunan)*, (**2024.09–Present**) 
