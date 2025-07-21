@@ -99,10 +99,12 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
-# 🌏 Collaboration/Network
+
+# 🌏 Collabration
 - [**Prof. Clarence E. Choi**](https://www.civil.hku.hk/pp-choice.html), **Assistant Professor**, *The University of Hong Kong (China, Hong Kong SAR)*,(**2025.06–Present**) 
 - [**Prof.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, *University of Dundee (UK, Dundee)*,(**2024.12–Present**) 
 - [**Prof.Jiren Xie**](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm), **Associate Professor**, *Central South University (China, Hunan)*, (**2024.09–Present**) 
+
 # 📖 Educations
 - **2025.09–Present**: PhD in Geotechnical Engineering  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
