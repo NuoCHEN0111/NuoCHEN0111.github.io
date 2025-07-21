@@ -12,8 +12,8 @@ main:
   - title: "Selected Publications"
     url: "/#-selected-publications"
  
-  - title: "Collaboration/Network"
-    url: "/#-collaboration"/"network"
+  - title: "Collaboration"
+    url: "/#-collaboration"
     
   - #title: "Honors and Awards"
     #url: "/#-honors-and-awards"
