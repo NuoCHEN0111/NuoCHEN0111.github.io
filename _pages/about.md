@@ -1,4 +1,4 @@
----
+  ---
 permalink: /
 title: ""
 excerpt: ""
@@ -42,7 +42,12 @@ redirect_from:
        box-shadow: 0 0 6px rgba(0,0,0,.15); */
   }
 </style>
-
+<style>
+.author-footnotes {
+  display: flex;
+  gap: 20px;
+}
+</style>
 <style>
   .site-footer {
     text-align: center;
@@ -81,10 +86,6 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 # 📝 Selected publications 
 
 <div class="author-footnotes"> <span>* Corresponding author</span> <span>† Equal contribution authors at this work </span> </div>
-.author-footnotes {
-  display: flex;
-  gap: 20px;
-}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
