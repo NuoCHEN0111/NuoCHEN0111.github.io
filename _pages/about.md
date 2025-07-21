@@ -114,7 +114,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
   – *Central South University (China, Hunan)*  
 
 <div class="logo-row">
-  <img src="../images/CSU.png"      alt="">
+  <img src="../images/CSU.png"     alt="">
   <img src="../images/HKU.png"  alt="">
 </div>
 
