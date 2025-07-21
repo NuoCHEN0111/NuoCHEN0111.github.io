@@ -80,7 +80,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 # 📝 Selected publications 
 
- <div class="author-footnotes"> <span>* Corresponding author</span> <span>† Equal contribution authors </span> </div>
+<div class="author-footnotes"> <span>* Corresponding author</span> ; <span>† Equal contribution authors at this work </span> </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +94,8 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
+# 🌏 Collaboration/Network
+- [**Dr.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, PhD in Geotechnical Engineering  
 
 # 📖 Educations
 - **2025.09–Present**: PhD in Geotechnical Engineering  
