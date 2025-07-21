@@ -13,7 +13,7 @@ main:
     url: "/#-selected-publications"
  
   - title: "Collabration/Network"
-    url: "/#-collabration%2Fnetwork"
+    url: "/#-collabration"/"Fnetwork"
     
   - #title: "Honors and Awards"
     #url: "/#-honors-and-awards"
