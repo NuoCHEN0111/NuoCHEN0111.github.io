@@ -80,7 +80,11 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 # 📝 Selected publications 
 
-<div class="author-footnotes"> <span>* Corresponding author</span> </span></span> <span>† Equal contribution authors at this work </span> </div>
+<div class="author-footnotes"> <span>* Corresponding author</span> <span>† Equal contribution authors at this work </span> </div>
+.author-footnotes {
+  display: flex;
+  gap: 20px;
+}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
