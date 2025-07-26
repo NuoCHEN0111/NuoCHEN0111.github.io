@@ -71,7 +71,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hi, I'm Nuo Chen. I'm currently a PhD student at the [Deparmnet of civil Engineering, the University of Hong Kong (HKU)](https://www.civil.hku.hk) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html).Before starting my PhD study, I also had a Msc degree from HKU and obtained my B.Eng degree from [Central South University (CSU)](https://www.csu.edu.cn) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
+Hi, I'm Nuo Chen. I'm currently a Ph.D student at the [Deparmnet of Civil Engineering, the University of Hong Kong (HKU)](https://www.civil.hku.hk) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html).Before starting my Ph.D study, I also had a Msc degree from HKU and obtained my B.Eng degree from [Central South University (CSU)](https://www.csu.edu.cn) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
 
 My current research aims to: (1) **track buried objects under debris flow** through differnet physical scales and provide **relaible disaster reponse** to the urgent needs of society;   (2) develop **scientific machine learning tools** for landslide/debris flow early warning and reconstruction.
 
@@ -104,11 +104,11 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 - [**Prof.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, *University of Dundee (UK, Dundee)*,(**2024.12–Present**) 
 
 # 📖 Educations
-- **2025.09–Present**: PhD in Geotechnical Engineering  
+- **2025.09–Present**: Ph.D in Geotechnical Engineering  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
-- **2024.09–2025.09**: MSc in Civil Engineering (Geotechnical Engineering Stream)  
+- **2024.09–2025.09**: M.Sc in Civil Engineering (Geotechnical Engineering Stream)  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
-- **2020.09–2024.06**: BEng in Civil Engineering (First class honours) 
+- **2020.09–2024.06**: B.Eng in Civil Engineering (First class honours) 
   – *Central South University (China, Hunan)*  
 
 <div class="logo-row">
