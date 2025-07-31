@@ -71,13 +71,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hi, I'm Nuo Chen. I'm currently a Ph.D student at the [Deparmnet of Civil Engineering, the University of Hong Kong (HKU)](https://www.civil.hku.hk) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html).Before starting my Ph.D study, I also had a Msc degree from HKU and obtained my B.Eng degree from [Central South University (CSU)](https://www.csu.edu.cn) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
+Hi, I'm Nuo Chen. I'm currently a Ph.D student at the [Deparmnet of Civil Engineering, the University of Hong Kong (HKU)](https://www.civil.hku.hk) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html).Before starting my Ph.D study, I also had a M.Sc degree from HKU and obtained my B.Eng degree from [Central South University (CSU)](https://www.csu.edu.cn) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
 
-My current research aims to: (1) **track buried objects under debris flow** through differnet physical scales and provide **relaible disaster reponse** to the urgent needs of society;   (2) develop **scientific machine learning tools** for landslide/debris flow early warning and reconstruction.
+My current research aims to: (1) **track buried objects under debris flow** through different physical scales and provide **reliable disaster reponse** to the urgent needs of society;   (2) develop **scientific machine learning tools** for landslide/debris flow early warning and reconstruction.
 
 # 🔍 Research interests
 - Landslides mechanism
-- Machine learning in geotechnical engineering
+- Scientific machine learning in geo-hazard
 - Landslides early warning and response
 
 # 🔥 News
