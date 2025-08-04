@@ -98,11 +98,11 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova
 
-**Contribution**
+**Main Contribution**
 - A new failure time forecasting method using a Bayesian approach based on slope surface tilting measurements
 - Update approach combine non-informative prior distributions and the Markov-chain Monte Carlo (MCMC) method
-- A comparison was made between the new Bayesian and conventional prediction methods
-- Regressive formulas with 95% confidence were developed for the relationship between prediction errors and input data quantity using fifteen laboratory and field cases
+- Comparison between the new Bayesian and conventional prediction methods
+- Relationship between prediction errors and input data quantity using fifteen laboratory and field cases
 </div>
 </div>
 
