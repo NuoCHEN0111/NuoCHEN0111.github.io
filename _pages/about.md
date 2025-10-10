@@ -86,7 +86,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 - Landslides early warning and response
 
 # 🔥 News
-- **2025.10**: &nbsp;🎉 New publication! I'm glad my first paper as was accepted by **Engineering Geology** based on my Bachelor graduation thesis. As first-author, I kindly thanks all my co-authors, especially Prof. Jiren Xie who was my Bachelor's surpervisor.
+- **2025.10**: &nbsp;🎉 New publication! I'm glad my first paper was accepted by **Engineering Geology** based on my Bachelor graduation thesis. As first-author, I kindly thanks all my co-authors, especially Prof. Jiren Xie who was my Bachelor's surpervisor.
 - **2025.09**: &nbsp;🎉 I start my PhD study at HKU!
 
 # 📝 Selected Publications 
