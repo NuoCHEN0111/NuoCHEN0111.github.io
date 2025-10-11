@@ -76,7 +76,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hi, I'm Nuo Chen. I'm currently a Ph.D student at the [Deparmnet of Civil Engineering, the University of Hong Kong (HKU)](https://www.civil.hku.hk) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html).Before starting my Ph.D study, I also had a M.Sc degree from HKU and obtained my B.Eng degree from [Central South University (CSU)](https://www.csu.edu.cn) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm). My CV is [here](https://nuochen0111.github.io/PDF/CV%20Nuo%20CHEN%20%282%29.pdf).
+Hi, I'm Nuo Chen. I'm currently a Ph.D student at the [Deparmnet of Civil Engineering, the University of Hong Kong (HKU)](https://www.civil.hku.hk) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html).Before starting my Ph.D study, I also had a M.Sc degree from HKU and obtained my B.Eng degree from [Central South University (CSU)](https://www.csu.edu.cn) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
 
 My current research aims to: (1) **track buried objects under debris flow** through different physical scales and provide **reliable disaster reponse** to the urgent needs of society;   (2) develop **scientific machine learning tools** for landslide/debris flow early warning and reconstruction.
 
