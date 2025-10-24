@@ -106,7 +106,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 </div>
 
-# 🌏 Collaboration
+# 🌏 Network
 - [**Prof.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, *University of Dundee (UK, Dundee)*,(**2024.12–Present**) 
 
 # 📖 Educations
