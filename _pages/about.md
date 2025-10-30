@@ -27,7 +27,6 @@ redirect_from:
   }
   .badge {
     background-color: rgb(0, 54, 145);
-    color: white;
     font-weight: 600;
     margin-bottom: 5px;
   }
