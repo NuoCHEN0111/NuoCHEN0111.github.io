@@ -26,7 +26,7 @@ redirect_from:
     vertical-align: middle;
   }
   .badge {
-    background-color: rgb(4, 82, 128);
+    background-color: rgb(0, 54, 145);
     color: white;
     font-weight: 600;
     margin-bottom: 5px;
@@ -70,7 +70,7 @@ redirect_from:
 <style>
 .badge2 { 
    display: inline-block;
-    background-color: rgb(4, 82, 128);
+    background-color: rgb(0, 54, 145);
     color: white;
     font-size: 0.8em;
     padding: 2px 6px;
