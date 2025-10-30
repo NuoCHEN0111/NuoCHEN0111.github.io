@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -103,11 +103,9 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 # 📝 Publications 
 
-
 <div class="author-footnotes"> <span class="bold-text">* Corresponding author </span> <span class="bold-text">† Equal contribution authors at this work </span> </div>
 
-## **Seletced Publication**
-
+## Seletced Publication
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/EG 2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf)<span class="rucred">**JCR Q1**</span>
@@ -121,8 +119,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 </div>
 
-
-## **Full list of Publications** 
+## Full list of Publications 
 
 <span class="badge2">Transportation Geotechnics</span> **A new slope failure detection method based on the slope surface tilting measurement using MEMS**, Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao\*, Wenli Lin\* (submitted)
 
