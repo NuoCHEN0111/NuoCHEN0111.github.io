@@ -106,7 +106,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 <div class="author-footnotes"> <span class="bold-text">* Corresponding author </span> <span class="bold-text">† Equal contribution authors at this work </span> </div>
 
 ## Seletced Publication
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/EG 2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology 2025</div><img src='images/EG 2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf)<span class="rucred">**JCR Q1**</span>
 
