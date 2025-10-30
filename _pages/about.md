@@ -66,11 +66,8 @@ redirect_from:
   }
 </style>
 <style>
-.badge2 {
-  background-color: #1f6feb;    
-  color: #fff;                  
-  padding: 2px 8px;             
-  border-radius: 6px;           
+.badge2 { 
+  padding: 2px 8px;                       
   display: inline-block;
   font-weight: 600;
   font-size: 0.75rem;           
