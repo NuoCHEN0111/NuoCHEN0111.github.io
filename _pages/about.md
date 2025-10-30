@@ -67,14 +67,15 @@ redirect_from:
 </style>
 <style>
 .badge2 { 
-  padding: 2px 8px;                       
-  display: inline-block;
-  font-weight: 600;
-  font-size: 0.75rem;           
-  line-height: 1;
-  vertical-align: middle;       
-  margin-right: 8px;            
-  box-shadow: 0 1px 0 rgba(0,0,0,0.08); 
+   display: inline-block;
+    background-color: rgb(0, 54, 145);
+    color: white;
+    font-size: 0.8em;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    font-weight: bold;
+    vertical-align: middle;
 }
 </style>
 {% if site.google_scholar_stats_use_cdn %}
