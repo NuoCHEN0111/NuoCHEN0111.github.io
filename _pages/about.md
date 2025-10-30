@@ -26,6 +26,8 @@ redirect_from:
     vertical-align: middle;
   }
   .badge {
+    background-color: rgb(4, 82, 128);
+    color: white;
     font-weight: 600;
     margin-bottom: 5px;
   }
