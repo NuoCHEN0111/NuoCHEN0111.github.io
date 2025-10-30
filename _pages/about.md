@@ -101,12 +101,13 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 - **2025.10**: &nbsp;🎉 New publication! I'm glad my first paper was accepted by **Engineering Geology** based on my Bachelor graduation thesis. As first-author, I kindly thanks all my co-authors, especially Prof. Jiren Xie who was my Bachelor's surpervisor.
 - **2025.09**: &nbsp;🎉 I start my PhD study at HKU!
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 <div class="author-footnotes"> <span class="bold-text">* Corresponding author </span> <span class="bold-text">† Equal contribution authors at this work </span> </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Geology</div><img src='images/EG 2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- Seletced Publication
 [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf)<span class="rucred">**JCR Q1**</span>
 
 **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova
@@ -118,7 +119,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 </div>
 
-# 📚 Full list of Publications 
+- Full list of Publications 
 
 <span class="badge2">Transportation Geotechnics</span> **A new slope failure detection method based on the slope surface tilting measurement using MEMS**, Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao\*, Wenli Lin\* (submitted)
 
