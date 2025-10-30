@@ -65,7 +65,21 @@ redirect_from:
     text-decoration: underline;
   }
 </style>
-
+<style>
+.badge2 {
+  background-color: #1f6feb;    
+  color: #fff;                  
+  padding: 2px 8px;             
+  border-radius: 6px;           
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.75rem;           
+  line-height: 1;
+  vertical-align: middle;       
+  margin-right: 8px;            
+  box-shadow: 0 1px 0 rgba(0,0,0,0.08); 
+}
+</style>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -108,9 +122,9 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 # 📚 Full list of Publications 
 
-<span class="badge">Transportation Geotechnics</span> **A new slope failure detection method based on the slope surface tilting measurement using MEMS**, Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao*, Wenli Lin* (Submitted)
+<span class="badge2">Transportation Geotechnics</span> **A new slope failure detection method based on the slope surface tilting measurement using MEMS**, Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao*, Wenli Lin* (Submitted)
 
-<span class="badge">Engineering Geology</span> [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf), **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova
+<span class="badge2">Engineering Geology</span> [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf), **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova
 
 # 🌏 Network
 - [**Prof.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, *University of Dundee (UK, Dundee)*,(**2024.12–Present**) 
