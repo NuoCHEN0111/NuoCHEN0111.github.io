@@ -106,6 +106,10 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 </div>
 
+# 📚 Full list of Publications 
+- **A new slope failure detection method based on the slope surface tilting measurement using MEMS**,  Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao*, Wenli Lin* **Transportation Geotechnics** (Submitted)
+- [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf), **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova **Engineering Geology**
+
 # 🌏 Network
 - [**Prof.Pengpeng He**](https://www.dundee.ac.uk/people/pengpeng-he), **Lecturer**, *University of Dundee (UK, Dundee)*,(**2024.12–Present**) 
 
