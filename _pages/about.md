@@ -123,7 +123,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 
 **Towards buried object localisation in landslide using UHF RFID: insights from lab- and field-scale experiments**, **Nuo Chen**, Jun Fang, Minghe Wang, Clarence E. Choi\*, <span class="badge2">Géotechnique</span> (Submitted)
 
-**A new slope failure detection method based on the slope surface tilting measurement using MEMS**, Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao\*, Wenli Lin\*, <span class="badge2">Transportation Geotechnics</span> (Submitted)
+**A new slope failure detection method based on the slope surface tilting measurement using MEMS**, Jiren Xie, Jiaxun Chen, Yue Lu, Jian Liu, Huihua Hu, **Nuo Chen**, Taro Uchimura, Siyuan Zhao\*, Wenli Lin\*, <span class="badge2">Transportation Geotechnics</span> (Under review)
 
 [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf), **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova, **2025**, <span class="badge2">Engineering Geology</span>
 
