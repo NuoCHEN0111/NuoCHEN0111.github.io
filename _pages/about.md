@@ -120,7 +120,7 @@ My current research aims to: (1) **track buried objects under debris flow** thro
 </div>
 
 ## 📃Full list of Publications 
-[**Burial state controls the impact force and travelling distance of a movable cubic object in granular flows**](PDF/CG 2026.pdf), **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova, **2025**, <span class="badge2">Engineering Geology</span>
+[**Burial state controls the impact force and travelling distance of a movable cubic object in granular flows**]([PDF/CG 2026.pdf](https://nuochen0111.github.io/PDF/CG%202026.pdf)), Jun Fang, Jinrun Wang, **Nuo Chen**, Clarence Edward Choi*, **2026**, <span class="badge2">Computers and Geotechnics</span>
 
 
 [**A real-time prediction method of slope failure using Bayesian approach based on slope surface tilting measurements**](https://nuochen0111.github.io/PDF/EG%202025.pdf), **Nuo Chen**, Pengpeng He, Jiaxun Chen, Xiaocheng Huang, Kun Fang, Jiren Xie*, Denis N. Gorobtsov, Margarita A. Novgorodova, **2025**, <span class="badge2">Engineering Geology</span>
